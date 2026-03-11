@@ -49,12 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
