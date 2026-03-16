@@ -124,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
