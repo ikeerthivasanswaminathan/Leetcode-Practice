@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0641-design-circular-deque](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
