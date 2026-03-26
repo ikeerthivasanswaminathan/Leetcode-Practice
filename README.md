@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0641-design-circular-deque](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
@@ -44,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 ## Dynamic Programming
 |  |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -109,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -139,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0077-combinations) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
