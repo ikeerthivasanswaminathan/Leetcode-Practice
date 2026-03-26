@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
