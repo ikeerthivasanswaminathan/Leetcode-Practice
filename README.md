@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## Sorting
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -167,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
