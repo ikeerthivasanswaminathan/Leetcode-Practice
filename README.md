@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -192,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
