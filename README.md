@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
 ## Sorting
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -213,5 +216,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
