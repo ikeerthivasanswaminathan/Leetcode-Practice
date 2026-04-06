@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -201,4 +202,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
