@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1745-palindrome-partitioning-iv](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1745-palindrome-partitioning-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -253,4 +255,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1314-matrix-block-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
