@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0641-design-circular-deque](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
@@ -242,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
