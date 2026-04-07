@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
