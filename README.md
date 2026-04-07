@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+| [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Sorting
 |  |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 ## Union-Find
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 ## Graph Theory
 |  |
 | ------- |
@@ -228,8 +231,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
+| [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
