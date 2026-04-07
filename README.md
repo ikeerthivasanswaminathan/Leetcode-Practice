@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0686-repeated-string-match) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 ## Graph Theory
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 ## Suffix Array
