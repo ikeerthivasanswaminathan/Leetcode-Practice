@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+| [1745-palindrome-partitioning-iv](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1745-palindrome-partitioning-iv) |
 | [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Sorting
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1745-palindrome-partitioning-iv](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1745-palindrome-partitioning-iv) |
 ## Tree
 |  |
 | ------- |
