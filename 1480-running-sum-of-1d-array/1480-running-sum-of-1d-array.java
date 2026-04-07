@@ -1,6 +1,6 @@
-class Solution
+class Solution 
 {
-    public int[] runningSum(int[] nums)
+    public int[] runningSum(int[] nums) 
     {
         int sum=0;
         int[] arr=new int[nums.length];
