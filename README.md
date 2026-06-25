@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0641-design-circular-deque](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0641-design-circular-deque) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Trie
 |  |
