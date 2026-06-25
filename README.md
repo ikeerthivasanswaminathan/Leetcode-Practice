@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0283-move-zeroes) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Trie
