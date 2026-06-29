@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
+| [1518-water-bottles](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1518-water-bottles) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1518-water-bottles) |
 ## Number Theory
 |  |
 | ------- |
