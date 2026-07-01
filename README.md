@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1392-longest-happy-prefix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1745-palindrome-partitioning-iv](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1745-palindrome-partitioning-iv) |
 | [1763-longest-nice-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1763-longest-nice-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Linked List
 |  |
 | ------- |
