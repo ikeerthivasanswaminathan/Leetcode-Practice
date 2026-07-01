@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0641-design-circular-deque](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0641-design-circular-deque) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0994-rotting-oranges](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1314-matrix-block-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Topological Sort
