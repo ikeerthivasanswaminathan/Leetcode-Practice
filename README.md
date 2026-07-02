@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0258-add-digits) |
+| [0887-super-egg-drop](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0899-orderly-queue) |
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
 | [1518-water-bottles](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1518-water-bottles) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0139-word-break) |
+| [0887-super-egg-drop](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0887-super-egg-drop](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1044-longest-duplicate-substring](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1044-longest-duplicate-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikeerthivasanswaminathan/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
